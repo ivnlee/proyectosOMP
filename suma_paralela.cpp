@@ -1,4 +1,4 @@
-//#include "pch.h"
+// Este programa realiza la suma en paralelo de dos arreglos, usando la libreria OpenMP  
 #include <iostream>
 #include "/opt/homebrew/opt/libomp/include/omp.h"
 
